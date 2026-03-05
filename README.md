@@ -8,6 +8,14 @@ My focus is on combining **Business Intelligence and Robotic Process Automation*
 
 ---
 
+## Links
+
+<a href="https://www.linkedin.com/in/abhradeep-banerjee812/" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+
+---
+
 ## What I Bring to Organizations
 
 ### Data Analytics & Decision Support

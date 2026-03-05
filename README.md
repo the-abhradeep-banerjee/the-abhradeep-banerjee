@@ -1,4 +1,4 @@
-#Hi, I'm Abhradeep Banerjee
+<h1 align="center">Abhradeep Banerjee</h1>
 
 💡 **Data Analyst | RPA Developer | Automation & Analytics Enthusiast**
 

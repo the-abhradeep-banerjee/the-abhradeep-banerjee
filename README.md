@@ -1,4 +1,4 @@
-#👋 Hi, I'm Abhradeep Banerjee
+👋 Hi, I'm Abhradeep Banerjee
 
 💡 **Data Analyst | RPA Developer | Automation & Analytics Enthusiast**
 

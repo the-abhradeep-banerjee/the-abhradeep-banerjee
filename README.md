@@ -59,6 +59,16 @@ My focus is on combining **Business Intelligence and Robotic Process Automation*
 
 ---
 
+## Certifications
+
+- **Google Data Analytics Professional Certificate**  
+  Completed comprehensive training in data analysis, including data cleaning, visualization, SQL, and business problem-solving.
+
+- **Google Advanced Data Analytics Professional Certificate** *(In Progress)*  
+  Focused on advanced analytics concepts such as statistical analysis, predictive modeling, and data-driven decision-making.
+
+---
+
 ## Example Analytics Solution
 
 ### Hospital Performance Analytics Dashboard
